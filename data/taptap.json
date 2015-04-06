@@ -1,6 +1,6 @@
 {
 	"title": "TAPTAP Diaspora",
-	"text": "In the past two years, for several reasons, the tech area of TAPTAP networks / Sonatalocal.com has suffered some heavy attrition. <br/><br/> This Map tracks where all the engineers & designers who have left the company since 2013 are working by April 2015",
+	"text": "In the past two years, for several reasons, the tech area of TAPTAP networks / Sonatalocal.com has suffered some heavy attrition. <br/><br/> This Map tracks where all the engineers & designers who have left the company since 2013 are working by April 2015.<br/><br/>The raw data can be found <a href=ihttps://github.com/johnHackworth/diaspora/blob/master/data/taptap.json'>here</a>, so if you want to add any update, feel free to pull request a change :)",
 	"data": [
 		{"people": "@johnhackworth", "name": "Automattic", "logoFormat": "long", "desc": "Automattic projects include WordPress.com, Jetpack, Gravatar, VaultPress, and Akismet.", "city": "San Francisco", "country": "US"},
 		{"people": "@luiscappabanda", "name": "Buguroo", "logoFormat": "long", "desc": "Bugiroo are a multinational manufacturer of security solutions in Cloud that works through the channel. They solve software security problems without needing to deploy programs on corporation’s workstations, nor installing servers.", "city": "Madrid", "country": "Spain"},
@@ -20,7 +20,7 @@
 		{"people": "@icuentagotas", "name": "ING", "logoFormat": "long", "desc": "", "city": "Madrid", "country": "Spain"},
 		{"people": "@nnombela", "name": "Ringio", "logoFormat": "long", "desc": "", "city": "McLean, VA", "country": "US"},
 		{"people": "@marianongdev", "name": "Packlink", "logoFormat": "long", "desc": "", "city": "Madrid", "country": "Spain"},
-		{"people": "antonio viedma", "name": "iEXERGY GmbH", "logoFormat": "long", "desc": "", "city": "Dortmund", "country": "Germany"},
+		{"people": "antonio viedma", "name": "iEXERGY GmbH", "logoFormat": "square", "desc": "", "city": "Dortmund", "country": "Germany"},
 		{"people": "@smontoiro", "name": "Iberdrola", "logoFormat": "long", "desc": "", "city": "Madrid", "country": "Spain"},
 		{"people": "eloisa garcia", "name": "Gamelearn", "logoFormat": "long", "desc": "", "city": "Madrid", "country": "Spain"},
 		{"people": "@saski", "name": "Civitatis.com", "logoFormat": "long", "desc": "", "city": "Alcobendas", "country": "Spain"}

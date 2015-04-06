@@ -5,7 +5,7 @@ window.Diaspora = function( id ) {
 window.Diaspora.prototype = {
 	init: function( id ) {
 		this.geocoder = new Geocoder();
-		this.map = L.map( id ).setView( [ 51.505, -0.09 ], 12 );
+		this.map = L.map( id ).setView( [ 51.505, -0.09 ], 2 );
 		L.tileLayer( 'https://{s}.tiles.mapbox.com/v4/examples.ra3sdcxr/{z}/{x}/{y}.png?access_token=pk.eyJ1IjoibWFwYm94IiwiYSI6IlhHVkZmaW8ifQ.hAMX5hSW-QnTeRCMAy9A8Q', {
 		} ).addTo( this.map );
 		this.map.on( 'zoomend', this.checkZoomLevel.bind( this ) );
@@ -15,14 +15,15 @@ window.Diaspora.prototype = {
 		this.initIntro();
 	},
 	initIntro: function( n ) {
-		n = n || 10;
+		n = n || 12;
 		if ( n - 1 <= 0 ) {
 			return;
 		}
 		if ( this.data && this.data.length ) {
 			var company = this.data[ Math.floor( Math.random() * this.data.length ) ];
-			if ( company.latlng ) {
+			if ( company.latlng && n < 10 ) {
 				this.map.panTo( company.latlng );
+				this.map.setZoom( 12 );
 			}
 			setTimeout( this.initIntro.bind( this, n - 1 ), 1000 );
 		} else {
@@ -258,6 +259,7 @@ window.Diaspora.prototype = {
 	clickPerson: function( person ) {
 		this.map.panTo( person.company.latlng );
 		person.company.marker.fire( 'click' );
+		this.map.setZoom( 12 );
 	}
 
 };

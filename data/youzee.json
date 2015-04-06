@@ -1,6 +1,6 @@
 {
 	"title": "Youzee Diaspora",
-	"text": "August 2012, Youzee, one of the shiniest stars on the spanish tech scene goes Nova. <br/>Three years after that, all the product team is distributed around the world.",
+	"text": "August 2012, Youzee, one of the shiniest stars on the spanish tech scene goes Nova. <br/>Three years after that, all the product team is distributed around the world.<br/><br/><br/>The raw data can be found <a href=ihttps://github.com/johnHackworth/diaspora/blob/master/data/youzee.json'>here</a>, so if you want to add any update, feel free to pull request a change :)",
 	"data": [
 		{"people": "@johnhackworth", "name": "Automattic", "logoFormat": "long", "desc": "Automattic projects include WordPress.com, Jetpack, Gravatar, VaultPress, and Akismet.", "city": "San Francisco", "country": "US"},
 		{"people": "@keyvanakbary", "name": "TransferWise", "logoFormat": "square", "desc": "TransferWise is an Estonian developed and UK-based peer-to-peer money transfer service launched in January 2011", "city": "London", "country": "UK"},
