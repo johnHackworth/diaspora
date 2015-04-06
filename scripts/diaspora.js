@@ -19,7 +19,7 @@ window.Diaspora.prototype = {
 		if ( n - 1 <= 0 ) {
 			return;
 		}
-		if ( this.data && this.data.length ) {
+		if ( this.data && ! this.personClicked && this.data.length ) {
 			var company = this.data[ Math.floor( Math.random() * this.data.length ) ];
 			if ( company.latlng && n < 10 ) {
 				this.map.panTo( company.latlng );
@@ -260,6 +260,7 @@ window.Diaspora.prototype = {
 		this.map.panTo( person.company.latlng );
 		person.company.marker.fire( 'click' );
 		this.map.setZoom( 12 );
+		this.personClicked = true;
 	}
 
 };
