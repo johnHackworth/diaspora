@@ -1,0 +1,179 @@
+body {
+	background: #333333;
+	padding: 0;
+	margin: 0;
+	font-family: 'Merriweather', serif !important;
+}
+
+a {
+	text-decoration: none;
+	color: #FFBB77;
+}
+
+.hidePanel {
+	border: 1px solid #FFF;
+	padding: 5px 10px;
+	margin: 10px auto;
+	display: block;
+	width: 60px;
+	text-align: center;
+	color: #FFFFFF;
+	font-size: 10px;
+	transition: 0.2s linear all;
+}
+.hidePanel:hover {
+	background: #995533;
+	color: #333;
+}
+
+h1 {
+	color: #FFF;
+	font-size: 20px;
+	padding: 0 10px;
+}
+
+.intro .text {
+	font-size: 10px;
+	padding: 10px;
+}
+
+#map {
+	height: 100%;
+	width: 100%;
+}
+
+.companyImage {
+	margin-right: 10px;
+	width: 200px;
+}
+.companyImage img {
+	width: 100%;
+}
+
+.companyTitle img {
+	height: 26px;
+	margin-right: 10px;
+	vertical-align: middle;
+}
+.companyTitle {
+	height: 26px;
+	padding: 10px 0;
+	font-family: 'Merriweather';
+	font-size: 26px;
+	font-weight: bold;
+	line-height: 26px;
+	color: #A65;
+	vertical-align: middle;
+}
+
+.people {
+	display: flex;
+	flex-direction: row;
+	justify-content: space-between;
+	padding: 20px 0 0;
+}
+
+.people img {
+	height: 50px;
+}
+
+.person {
+	align-self: auto;
+	text-align: center;
+}
+
+.leaflet-popup-content-wrapper {
+	width: 400px;
+	font-family: 'Merriweather';
+}
+
+.leaflet-popup-content {
+	width: 360px !important;
+}
+
+.point {
+	fill-opacity: 0.95;
+	fill: #CCFF00;
+}
+
+.companyInfo {
+	display: flex;
+	flex-direction: row;
+	justify-content: space-between;
+}
+
+.companyInfo img {
+	margin-right: 10px;
+}
+
+.companyInfo .description {
+	text-align: justify;
+}
+
+.leaflet-marker-icon {
+	opacity: 0.6;
+}
+
+.leaflet-marker-icon:hover {
+	opacity: 0.95;
+}
+
+.peopleMenu {
+	position: fixed;
+	top: 0;
+	left: 0;
+	height: 100%;
+	width: 200px;
+	background: #333;
+	z-index: 1000;
+	overflow-y: scroll;
+	cursor: pointer;
+	transition: all ease-in 0.3s;
+}
+
+.peopleMenu.hidden {
+	left: -190px;
+	overflow-y: hidden;
+}
+
+.personCard {
+	display: flex;
+	flex-direction: row;
+	padding: 10px;
+}
+
+.personCard:hover {
+	background: #993333;
+	cursor: pointer;
+}
+.personImage {
+	height: 40px;
+	width: 40px;
+	margin-right: 10px;
+	display: inline-block;
+}
+
+.personImage img {
+	width: 100%;
+	height: 100%;
+}
+
+.personCompany {
+	height: 20px;
+	display: inline-block;
+}
+.personCompany img {
+	height: 100%;
+}
+
+.personName {
+	color: #FFF;
+	font-size: 12px;
+	line-height: 20px;
+}
+
+.attribution {
+	font-size: 11px;
+	color: #FFF;
+	padding: 30px 10px;
+}

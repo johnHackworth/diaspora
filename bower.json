@@ -1,0 +1,20 @@
+{
+  "name": "diaspora",
+  "version": "0.0.0",
+  "authors": [
+    "johnHackworth <javieralvarezlop@gmail.com>"
+  ],
+  "main": "index.html",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "leaflet": "~0.7.3",
+    "jquery": "~2.1.3"
+  }
+}
