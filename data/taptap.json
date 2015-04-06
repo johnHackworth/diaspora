@@ -5,12 +5,12 @@
 		{"people": "@johnhackworth", "name": "Automattic", "logoFormat": "long", "desc": "Automattic projects include WordPress.com, Jetpack, Gravatar, VaultPress, and Akismet.", "city": "San Francisco", "country": "US"},
 		{"people": "@luiscappabanda", "name": "Buguroo", "logoFormat": "long", "desc": "Bugiroo are a multinational manufacturer of security solutions in Cloud that works through the channel. They solve software security problems without needing to deploy programs on corporation’s workstations, nor installing servers.", "city": "Madrid", "country": "Spain"},
 		{"people": "@gianluca-bassini,@j_monte_m,@dortegau,@AnimArGix", "name": "idealista", "logoFormat": "square", "desc": "idealista is a real estate website for renting, buying and selling houses and flats.", "city": "Madrid", "country": "Spain"},
-		{"people": "@Skyweb07", "name": "fever app", "logoFormat": "square", "desc": "Fever delivers a curated list of the most exciting events, tailored for you.", "city": "Madrid", "country": "Spain"},
+		{"people": "@Skyweb07", "name": "feverup", "logoFormat": "square", "desc": "Fever delivers a curated list of the most exciting events, tailored for you.", "city": "Madrid", "country": "Spain"},
 		{"people": "@geriuxx,@mrheston", "name": "Vizzuality", "logoFormat": "long", "desc": "Vizzuality is dedicated in the designing and development of rich internet applications for biodiversity information.", "city": "Madrid", "country": "Spain"},
 		{"people": "@NinjaTux2K", "name": "IceMobile", "logoFormat": "long", "desc": "", "city": "Amsterdam", "country": "Netherlands"},
 		{"people": "@javierdfm", "name": "Marktplaats", "logoFormat": "normal", "desc": "", "city": "Amsterdam", "country": "Netherlands"},
-		{"people": "@julioritmo", "name": "Accedo.tv", "logoFormat": "long", "desc": "", "city": "Madrid", "country": "Spain"},
-		{"people": "@aracem", "name": "Upclose app", "logoFormat": "long", "desc": "", "city": "Madrid", "country": "Spain"},
+		{"people": "@julioritmo", "name": "AccedoTv", "logoFormat": "long", "desc": "", "city": "Madrid", "country": "Spain"},
+		{"people": "@aracem", "name": "Upclose.me", "logoFormat": "long", "desc": "", "city": "Madrid", "country": "Spain"},
 		{"people": "@ndbriere", "name": "SmartAdServer", "logoFormat": "normal", "desc": "", "city": "Madrid", "country": "Spain"},
 		{"people": "@mvelaolid", "name": "fintonic.com", "logoFormat": "long", "desc": "Fintonic.com is a free online personal finance service provider offering users advice to make the most out of their income.", "city": "Madrid", "country": "Spain"},
 		{"people": "@alvaronistal", "name": "stratioBD", "logoFormat": "square", "desc": "", "city": "Madrid", "country": "Spain"},
@@ -23,6 +23,8 @@
 		{"people": "antonio viedma", "name": "iEXERGY GmbH", "logoFormat": "square", "desc": "", "city": "Dortmund", "country": "Germany"},
 		{"people": "@smontoiro", "name": "Iberdrola", "logoFormat": "long", "desc": "", "city": "Madrid", "country": "Spain"},
 		{"people": "eloisa garcia", "name": "Gamelearn", "logoFormat": "long", "desc": "", "city": "Madrid", "country": "Spain"},
-		{"people": "@saski", "name": "Civitatis.com", "logoFormat": "long", "desc": "", "city": "Alcobendas", "country": "Spain"}
+		{"people": "@saski", "name": "Civitatis.com", "logoFormat": "long", "desc": "", "city": "Alcobendas", "country": "Spain"},
+		{"people": "@rboudard", "name": "AppNexus.com", "logoFormat": "long", "desc": "", "city": "Madrid", "country": "Spain"}
+
 	]
 }
