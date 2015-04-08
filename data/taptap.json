@@ -24,7 +24,8 @@
 		{"people": "@smontoiro", "name": "Iberdrola", "logoFormat": "long", "desc": "", "city": "Madrid", "country": "Spain"},
 		{"people": "eloisa garcia", "name": "Gamelearn", "logoFormat": "long", "desc": "", "city": "Madrid", "country": "Spain"},
 		{"people": "@saski", "name": "Civitatis.com", "logoFormat": "long", "desc": "", "city": "Alcobendas", "country": "Spain"},
-		{"people": "@rboudard", "name": "AppNexus.com", "logoFormat": "long", "desc": "", "city": "Madrid", "country": "Spain"}
-
+		{"people": "@rboudard", "name": "AppNexus.com", "logoFormat": "long", "desc": "", "city": "Madrid", "country": "Spain"},
+		{"people": "@sowe", "name": "Tuenti", "desc": "Tuenti Technologies is a Spanish social networking site allowing users to send real-time messages.", "city": "Madrid", "country": "Spain"},
+		{"people": "@rafinskipg", "name": "bq.com", "desc": "", "city": "Las Rozas", "country": "Spain"}
 	]
 }
