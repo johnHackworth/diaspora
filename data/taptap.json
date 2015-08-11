@@ -1,205 +1,35 @@
 {
-title: "TAPTAP Diaspora",
-text: "In the past two years, for several reasons, the tech area of TAPTAP networks / Sonatalocal.com has suffered some heavy attrition. <br/><br/> This Map tracks where all the engineers & designers who have left the company since 2013 are working by April 2015.<br/><br/>The raw data can be found <a href=ihttps://github.com/johnHackworth/diaspora/blob/master/data/taptap.json'>here</a>, so if you want to add any update, feel free to pull request a change :)",
-data: [
-{
-people: "@johnhackworth",
-name: "Automattic",
-logoFormat: "long",
-desc: "Automattic projects include WordPress.com, Jetpack, Gravatar, VaultPress, and Akismet.",
-city: "San Francisco",
-country: "US"
-},
-{
-people: "@luiscappabanda",
-name: "Buguroo",
-logoFormat: "long",
-desc: "Bugiroo are a multinational manufacturer of security solutions in Cloud that works through the channel. They solve software security problems without needing to deploy programs on corporation’s workstations, nor installing servers.",
-city: "Madrid",
-country: "Spain"
-},
-{
-people: "@gianluca-bassini,@j_monte_m,@dortegau,@AnimArGix",
-name: "idealista",
-logoFormat: "square",
-desc: "idealista is a real estate website for renting, buying and selling houses and flats.",
-city: "Madrid",
-country: "Spain"
-},
-{
-people: "@Skyweb07",
-name: "feverup",
-logoFormat: "square",
-desc: "Fever delivers a curated list of the most exciting events, tailored for you.",
-city: "Madrid",
-country: "Spain"
-},
-{
-people: "@geriuxx,@mrheston",
-name: "Vizzuality",
-logoFormat: "long",
-desc: "Vizzuality is dedicated in the designing and development of rich internet applications for biodiversity information.",
-city: "Madrid",
-country: "Spain"
-},
-{
-people: "@NinjaTux2K",
-name: "IceMobile",
-logoFormat: "long",
-desc: "",
-city: "Amsterdam",
-country: "Netherlands"
-},
-{
-people: "@javierdfm",
-name: "Marktplaats",
-logoFormat: "normal",
-desc: "",
-city: "Amsterdam",
-country: "Netherlands"
-},
-{
-people: "@juliorimo",
-name: "Accedo.tv",
-logoFormat: "long",
-desc: "",
-city: "Madrid",
-country: "Spain"
-},
-{
-people: "@aracem",
-name: "Upclose",
-logoFormat: "long",
-desc: "",
-city: "Madrid",
-country: "Spain"
-},
-{
-people: "@ndbriere",
-name: "SmartAdServer",
-logoFormat: "normal",
-desc: "",
-city: "Madrid",
-country: "Spain"
-},
-{
-people: "@mvelaolid",
-name: "fintonic.com",
-logoFormat: "long",
-desc: "Fintonic.com is a free online personal finance service provider offering users advice to make the most out of their income.",
-city: "Madrid",
-country: "Spain"
-},
-{
-people: "@alvaronistal",
-name: "stratioBD",
-logoFormat: "square",
-desc: "",
-city: "Madrid",
-country: "Spain"
-},
-{
-people: "@vpenela",
-name: "Ad Roll",
-logoFormat: "long",
-desc: "AdRoll is the top retargeting platform, making retargeting simple and profitable for companies and agencies of all sizes.",
-city: "San Francisco",
-country: "US"
-},
-{
-people: "@ainhi2009",
-name: "MediaNet Software",
-logoFormat: "long",
-desc: "",
-city: "Madrid",
-country: "Spain"
-},
-{
-people: "carlos benito,@davidbarredo",
-name: "Indra",
-logoFormat: "long",
-desc: "",
-city: "Alcobendas",
-country: "Spain"
-},
-{
-people: "@icuentagotas",
-name: "ING",
-logoFormat: "long",
-desc: "",
-city: "Madrid",
-country: "Spain"
-},
-{
-people: "@nnombela",
-name: "Ringio.com",
-logoFormat: "long",
-desc: "",
-city: "McLean, Virginia",
-country: "US"
-},
-{
-people: "@marianongdev",
-name: "Packlink",
-logoFormat: "long",
-desc: "",
-city: "Madrid",
-country: "Spain"
-},
-{
-people: "antonio viedma",
-name: "iEXERGY GmbH",
-logoFormat: "square",
-desc: "",
-city: "Dortmund",
-country: "Germany"
-},
-{
-people: "@smontoiro",
-name: "Iberdrola",
-logoFormat: "long",
-desc: "",
-city: "Madrid",
-country: "Spain"
-},
-{
-people: "eloisa garcia",
-name: "Gamelearn",
-logoFormat: "long",
-desc: "",
-city: "Madrid",
-country: "Spain"
-},
-{
-people: "@saski",
-name: "Civitatis.com",
-logoFormat: "long",
-desc: "",
-city: "Alcobendas",
-country: "Spain"
-},
-{
-people: "@rboudard",
-name: "AppNexus.com",
-logoFormat: "long",
-desc: "",
-city: "Madrid",
-country: "Spain"
-},
-{
-people: "@sowe",
-name: "Tuenti",
-desc: "Tuenti Technologies is a Spanish social networking site allowing users to send real-time messages.",
-city: "Madrid",
-country: "Spain"
-},
-{
-people: "@rafinskipg",
-name: "bq.com",
-desc: "",
-city: "Las Rozas",
-country: "Spain"
+	"title": "TAPTAP Diaspora",
+	"text": "In the past two years, for several reasons, the tech area of TAPTAP networks / Sonatalocal.com has suffered some heavy attrition. <br/><br/> This Map tracks where all the engineers & designers who have left the company since 2013 are working by April 2015.<br/><br/>The raw data can be found <a href=ihttps://github.com/johnHackworth/diaspora/blob/master/data/taptap.json'>here</a>, so if you want to add any update, feel free to pull request a change :)",
+	"data": [
+		{"people": "@johnhackworth", "name": "Automattic", "logoFormat": "long", "desc": "Automattic projects include WordPress.com, Jetpack, Gravatar, VaultPress, and Akismet.", "city": "San Francisco", "country": "US"},
+		{"people": "@luiscappabanda", "name": "Buguroo", "logoFormat": "long", "desc": "Bugiroo are a multinational manufacturer of security solutions in Cloud that works through the channel. They solve software security problems without needing to deploy programs on corporation’s workstations, nor installing servers.", "city": "Madrid", "country": "Spain"},
+		{"people": "@gianluca-bassini,@j_monte_m,@dortegau,@AnimArGix", "name": "idealista", "logoFormat": "square", "desc": "idealista is a real estate website for renting, buying and selling houses and flats.", "city": "Madrid", "country": "Spain"},
+		{"people": "@Skyweb07", "name": "feverup", "logoFormat": "square", "desc": "Fever delivers a curated list of the most exciting events, tailored for you.", "city": "Madrid", "country": "Spain"},
+		{"people": "@geriuxx,@mrheston", "name": "Vizzuality", "logoFormat": "long", "desc": "Vizzuality is dedicated in the designing and development of rich internet applications for biodiversity information.", "city": "Madrid", "country": "Spain"},
+		{"people": "@NinjaTux2K", "name": "IceMobile", "logoFormat": "long", "desc": "", "city": "Amsterdam", "country": "Netherlands"},
+		{"people": "@javierdfm", "name": "Marktplaats", "logoFormat": "normal", "desc": "", "city": "Amsterdam", "country": "Netherlands"},
+		{"people": "@juliorimo", "name": "Accedo.tv", "logoFormat": "long", "desc": "", "city": "Madrid", "country": "Spain"},
+		{"people": "@aracem", "name": "Job and Talent", "logoFormat": "long", "desc": "", "city": "Madrid", "country": "Spain"},
+		{"people": "@ndbriere", "name": "SmartAdServer", "logoFormat": "normal", "desc": "", "city": "Madrid", "country": "Spain"},
+		{"people": "@mvelaolid", "name": "fintonic.com", "logoFormat": "long", "desc": "Fintonic.com is a free online personal finance service provider offering users advice to make the most out of their income.", "city": "Madrid", "country": "Spain"},
+		{"people": "@alvaronistal", "name": "stratioBD", "logoFormat": "square", "desc": "", "city": "Madrid", "country": "Spain"},
+		{"people": "@vpenela", "name": "Ad Roll", "logoFormat": "long", "desc": "AdRoll is the top retargeting platform, making retargeting simple and profitable for companies and agencies of all sizes.", "city": "San Francisco", "country": "US"},
+		{"people": "@ainhi2009", "name": "MediaNet Software", "logoFormat": "long", "desc": "", "city": "Madrid", "country": "Spain"},
+		{"people": "carlos benito,@davidbarredo", "name": "Indra", "logoFormat": "long", "desc": "", "city": "Alcobendas", "country": "Spain"},
+		{"people": "@icuentagotas", "name": "ING", "logoFormat": "long", "desc": "", "city": "Madrid", "country": "Spain"},
+		{"people": "@nnombela", "name": "Ringio.com", "logoFormat": "long", "desc": "", "city": "McLean, Virginia", "country": "US"},
+		{"people": "@marianongdev", "name": "Packlink", "logoFormat": "long", "desc": "", "city": "Madrid", "country": "Spain"},
+		{"people": "antonio viedma", "name": "iEXERGY GmbH", "logoFormat": "square", "desc": "", "city": "Dortmund", "country": "Germany"},
+		{"people": "@smontoiro", "name": "Iberdrola", "logoFormat": "long", "desc": "", "city": "Madrid", "country": "Spain"},
+		{"people": "eloisa garcia", "name": "Gamelearn", "logoFormat": "long", "desc": "", "city": "Madrid", "country": "Spain"},
+		{"people": "@saski", "name": "Civitatis.com", "logoFormat": "long", "desc": "", "city": "Alcobendas", "country": "Spain"},
+		{"people": "@rboudard", "name": "AppNexus.com", "logoFormat": "long", "desc": "", "city": "Madrid", "country": "Spain"},
+		{"people": "@delr3ves,@sowe", "name": "Tuenti", "desc": "Tuenti Technologies is a Spanish social networking site allowing users to send real-time messages.", "city": "Madrid", "country": "Spain"},
+		{"people": "@rafinskipg", "name": "bq.com", "desc": "", "city": "Las Rozas", "country": "Spain"},
+		{"people": "@milingo83", "name": "bq.com", "desc": "", "city": "Las Rozas", "country": "Spain"},
+		{"people": "@torgus_2punto0", "name": "Stratio", "desc": "", "city": "Madrid", "country": "Spain"},
+		{"people": "@cesarob", "name": "Themotion", "desc": "", "city": "Madrid", "country": "Spain"},
+		
+	]
 }
-]
-}
-data[1].country+-View sourceoptions
